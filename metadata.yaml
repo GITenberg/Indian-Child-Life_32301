@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '35787'
     url: http://www.gutenberg.org/2009/agents/35787
 description: Tells about the lives of Indian children and how they relate to animals.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32301#Indian-Child-Life
 gutenberg_issued: '2010-05-08'
 gutenberg_type: Text
 identifiers:
