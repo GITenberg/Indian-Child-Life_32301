@@ -1,0 +1,40 @@
+_repo: Indian-Child-Life_32301
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Deming, Edwin Willard
+    alias: Eight Bears
+    birthdate: 1860
+    deathdate: 1942
+    gutenberg_agent_id: '8411'
+    url: http://www.gutenberg.org/2009/agents/8411
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Deming, Therese O. (Therese Osterheld)
+    birthdate: 1874
+    gutenberg_agent_id: '35787'
+    url: http://www.gutenberg.org/2009/agents/35787
+description: Tells about the lives of Indian children and how they relate to animals.
+gutenberg_issued: '2010-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32301'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Indian children -- North America -- Juvenile fiction'
+- !lcsh 'Human-animal relationships -- Juvenile fiction'
+tableOfContents: A runaway -- A greedy bear -- In mischief -- Canoe boys -- Winter
+  fun --- Mr. and Mrs. Antelope and the babies -- The cliff-dwellers and their pets
+  -- The burro race -- Learning to shoot -- Little bird, the Navajo shepherd boy --
+  Little Beaver and the tame crows -- Bright-eyes and his puma kittens -- Hodgska
+  makes a visit -- Playing at moving house -- The war dance -- Taking care of the
+  ponies -- The babies and the woodpeckers -- How the pueblo boys were frightened.
+title: Indian Child Life
+url: http://www.gutenberg.org/ebooks/32301
